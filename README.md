@@ -26,7 +26,7 @@ To run this project, you need to have the following Python libraries installed:
 You can install the required libraries using pip:
 
 ```bash
-    pip install matplotlib numpy
+    pip3 install matplotlib numpy
 ```
 
 ## Libraries Used:
