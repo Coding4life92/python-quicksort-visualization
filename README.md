@@ -39,13 +39,16 @@ You can install the required libraries using pip:
 - random: For shuffling the array to simulate random input data.
 
 ## How to Use:
+Input the Array Size: When the program starts, you will be prompted to enter the size of the array. 
+For example, you could input 20 to sort an array of 20 random numbers.
 
-Input the Array Size: When the program starts, you will be prompted to enter the size of the array. For example, you could input 20 to sort an array of 20 random numbers.
--Watch the Animation: Once you input the array size, the program will randomly shuffle the array and begin sorting it using QuickSort. The sorting process will be visualized through an animated bar chart.
+## Watch the Animation: 
+Once you input the array size, the program will randomly shuffle the array and begin sorting it using QuickSort. The sorting process will be visualized through an animated bar chart.
 
-End of Animation: The animation will stop once the array is completely sorted.
+## End of Animation: 
+The animation will stop once the array is completely sorted.
 
-Example Usage:
+## Example Usage:
 
 ```bash
 Enter array size:
