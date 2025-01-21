@@ -53,3 +53,8 @@ Enter array size:
 ```
 
 This will start the visualization of the QuickSort algorithm on a randomly shuffled array of size 40.
+
+## Sample Output: 
+<img width="638" alt="Screenshot 2025-01-20 at 9 44 22 PM" src="https://github.com/user-attachments/assets/830e92eb-92b4-45ac-8feb-30685a173225" />
+
+
